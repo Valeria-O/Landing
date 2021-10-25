@@ -5,7 +5,7 @@
 }
 
 body {
-    font-family: 'open sans';
+    font-family: 'Be Vietnam', sans-serif;
 }
 
 .contenedor {
@@ -21,6 +21,7 @@ body {
     font-size: 30px;
     text-align: center;
     margin-bottom: 60px;
+    font-family: 'Concert One';
 }
 
 /* Header */
